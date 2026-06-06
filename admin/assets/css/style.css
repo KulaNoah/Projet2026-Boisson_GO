@@ -1,0 +1,24 @@
+/* Style CSS */
+.card-boisson img {
+    height: 220px;
+    object-fit: cover;
+}
+
+.card-boisson {
+    transition: 0.3s;
+}
+
+.card-boisson:hover {
+    transform: translateY(-5px);
+}
+
+.toast-panier {
+    z-index: 9999;
+}
+.toast-panier {
+    z-index: 9999;
+}
+
+.toast {
+    transition: opacity 0.5s ease;
+}
